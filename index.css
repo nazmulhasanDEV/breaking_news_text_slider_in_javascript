@@ -1,0 +1,22 @@
+
+/* slider two */
+.text-slider-main-div {
+    position: relative;
+    top: 150px;
+    box-sizing: border-box;
+    background-color: brown;
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+}
+
+.text-slider-main-div p {
+    width: max-content;
+    font-size: 30px;
+    font-weight: 700;
+    background-color: burlywood;
+    position: relative;
+    /* float: right; */
+    /* transform: translateX(-702px); */
+    /* transform: translateX(100%); */
+}
